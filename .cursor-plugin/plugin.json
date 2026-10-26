@@ -1,0 +1,22 @@
+{
+  "name": "infros",
+  "displayName": "InfrOS",
+  "version": "1.0.0",
+  "description": "Design cloud architectures and generate Terraform with InfrOS from Cursor: create projects and specifications, run designs, review proposals and read the generated Terraform, as your own InfrOS user.",
+  "author": {
+    "name": "InfrOS",
+    "email": "support@infros.io"
+  },
+  "homepage": "https://infros.io",
+  "repository": "https://github.com/infros-io/cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "infros",
+    "cloud",
+    "architecture",
+    "terraform",
+    "iac",
+    "mcp"
+  ],
+  "logo": "assets/logo.png"
+}

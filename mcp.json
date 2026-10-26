@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "infros": {
+      "url": "https://api.app.infros.io/assistant/mcp"
+    }
+  }
+}
