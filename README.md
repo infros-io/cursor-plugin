@@ -1,6 +1,6 @@
 # InfrOS for Cursor
 
-InfrOS designs cloud architectures from your requirements and generates the Terraform to deploy them. This plugin connects Cursor to InfrOS, so Cursor's agent can work in InfrOS as you: create projects and specifications, run designs, review the proposals, and read the generated Terraform.
+InfrOS designs cloud architectures from your requirements and generates the Terraform to deploy them. This plugin connects Cursor to InfrOS, so Cursor's agent can work in InfrOS as you: create Systems and specifications, run designs, review the proposals, and read the generated Terraform.
 
 ## Install
 
@@ -28,8 +28,8 @@ The first time Cursor uses InfrOS, your browser opens the InfrOS sign-in. After 
 
 | Permission | What it allows |
 | --- | --- |
-| Read | See your projects, versions, landing zones, proposals and generated Terraform, and get the price of a design run or a Terraform generation |
-| Write | Create projects and versions, and edit your drafts |
+| Read | See your Systems, versions, landing zones, proposals and generated Terraform, and get the price of a design run or a Terraform generation |
+| Write | Create Systems and versions, and edit your drafts |
 | Spend credits | Start a design run or a Terraform generation |
 | Admin (organization admins only) | Manage your organization's landing zones, standing constraints and GitHub repository analyses |
 
